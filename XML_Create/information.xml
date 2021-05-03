@@ -1,0 +1,23 @@
+<class>
+<course>
+<code> SCH3U </code>
+<description> Chemistry, Grade 11, University Preparation </description>
+<teacher> Ms. MacGillivray </teacher>
+<fileType> Unmodified </fileType>
+<schoolBoard> DDSB </schoolBoard>
+</course> 
+<course>
+<code> MCR3U </code>
+<description> Functions, Grade 11, University Preparation </description>
+<teacher> Ms. Pringle </teacher>
+<fileType> Unmodified </fileType>
+<schoolBoard> DDSB </schoolBoard>
+</course> 
+<course>
+<code> ENG3U </code>
+<description> English, Grade 11, University Preparation </description>
+<teacher> Mr. Calhoun </teacher>
+<fileType> Unmodified </fileType>
+<schoolBoard> DDSB </schoolBoard>
+</course> 
+</class>
